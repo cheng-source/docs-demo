@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "路人甲的文档"
   text: "一个文档站点"
-  tagline: 持续学习，持续进步
+  tagline: 持续学习，持续进步1
   image:
     src: /background.png
     alt: 背景图片
