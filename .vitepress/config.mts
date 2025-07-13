@@ -30,9 +30,6 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/cheng-source' }
-    ],
-    footer:{
-      copyright: 'copyright'
-    }
+    ]
   }
 })
