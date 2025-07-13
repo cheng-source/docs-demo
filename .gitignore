@@ -1,0 +1,8 @@
+node_modules
+.Ds_store
+dist
+dist-ssr
+cache
+.cache
+.temp
+*.local
